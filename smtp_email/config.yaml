@@ -1,0 +1,18 @@
+database:
+  host: localhost
+  user: postgres
+  password: test1234!
+  dbname: go_job
+  port: 5434
+  sslmode: disable
+  timezone: UTC
+
+smtp:
+  host: "hostname.com"
+  port: 465
+  sender: "test@test.com"
+  username: "test@test.com"
+  password: "1234!"
+  insecure_skip_verify: true
+  start_tls: false
+  is_auth_required: true

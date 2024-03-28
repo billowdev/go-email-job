@@ -1,7 +1,7 @@
 database:
   host: localhost
   user: postgres
-  password: test
+  password: test1234!
   dbname: go_job
   port: 5434
   sslmode: disable

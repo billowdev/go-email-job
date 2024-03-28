@@ -1,4 +1,4 @@
-module simulate
+module smtp_email
 
 go 1.22.1
 
