@@ -1,0 +1,8 @@
+database:
+  host: localhost
+  user: postgres
+  password: test
+  dbname: go_job
+  port: 5434
+  sslmode: disable
+  timezone: UTC
